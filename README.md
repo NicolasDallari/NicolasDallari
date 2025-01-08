@@ -1,4 +1,4 @@
-# 👋 Salut, je suis [Ton Nom ou Pseudo]  
+# 👋 Salut, je suis Dallari Nicolas   
 
 ![Bannière GitHub](https://user-images.githubusercontent.com/placeholder-banner.jpg)  
 *(Ajoute une bannière personnalisée ou remplace ce lien par un design Canva, etc.)*
