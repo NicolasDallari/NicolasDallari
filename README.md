@@ -9,6 +9,7 @@ Je suis un développeur passionné par **[ton domaine principal]** et curieux(se
 ---
 
 ## 🔥 Quelques stats rapides  
+![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=NicolasDallari&show_icons=true&theme=radical)
 
 ---
 
