@@ -4,23 +4,18 @@
 *(Ajoute une bannière personnalisée ou remplace ce lien par un design Canva, etc.)*
 
 Bienvenue sur mon profil GitHub ! 🚀  
-Je suis un(e) développeur(euse) passionné(e) par **[ton domaine principal]** et curieux(se) d'explorer tout ce qui touche à **[tes centres d'intérêt]**.
+Je suis un développeur passionné par **[ton domaine principal]** et curieux(se) d'explorer tout ce qui touche à **[tes centres d'intérêt]**.
 
 ---
 
 ## 🔥 Quelques stats rapides  
 
-![GitHub Followers](https://img.shields.io/github/followers/TonPseudoGitHub?style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/TonPseudoGitHub?style=social)  
-![Visiteurs](https://komarev.com/ghpvc/?username=TonPseudoGitHub&color=brightgreen)  
-
 ---
 
 ## 🚀 À propos de moi  
 
-- 🔭 Actuellement, je travaille sur **[projet en cours ou domaine actuel]**  
-- 🌱 J'apprends **[technologie ou sujet d'apprentissage actuel]**  
-- 👯 Je cherche à collaborer sur **[types de projets qui t'intéressent]**  
+- 🔭 Actuellement, je travaille sur **Mon portfolio**  
+- 🌱 j'approfondis **PHP**   
 - ⚡ Fun fact : **[Ajoute un fun fact ou un trait unique sur toi ici]**  
 
 ![Un GIF sympa](https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif)  
@@ -48,10 +43,9 @@ Je suis un(e) développeur(euse) passionné(e) par **[ton domaine principal]** e
 
 ## 🌐 Où me trouver ?  
 
-- 📧 Email : [tonemail@example.com]  
-- 🌐 Portfolio : [Lien vers ton site ou portfolio]  
-- 💬 LinkedIn : [Lien LinkedIn]  
-- 🐦 Twitter : [Lien Twitter (si pertinent)]  
+- 📧 Email : [nicodev63700@gmail.com]  
+- 🌐 Portfolio : [En cours]  
+- 💬 LinkedIn : [[Lien LinkedIn]](https://www.linkedin.com/in/dallari-nicolas-6556382a9)  
 
 ![Connect GIF](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
 
