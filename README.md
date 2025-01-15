@@ -1,19 +1,14 @@
 # 👋 Salut, je suis Dallari Nicolas   
 
-![Bannière GitHub](https://user-images.githubusercontent.com/placeholder-banner.jpg)  
-*(Ajoute une bannière personnalisée ou remplace ce lien par un design Canva, etc.)*
-
 Bienvenue sur mon profil GitHub ! 🚀  
-Je suis un développeur passionné par **[ton domaine principal]** et curieux(se) d'explorer tout ce qui touche à **[tes centres d'intérêt]**.
 
----
----
+Je suis un développeur **Fullstack** passionné par ce métier où l'on en apprend chaque jour
 
 ## 🚀 À propos de moi  
 
-- 🔭 Actuellement, je travaille sur **Convertisseur de monnaie**  
-- 🌱 j'approfondis **PHP,Tailwind CSS**   
----
+- 🔭 Actuellement, je travaille sur un **Convertisseur de monnaie**  
+- 🌱 J'approfondis **PHP,JavaScript**   
+- 🏡 J'habite à **Moureuille (Auvergne)**, France.
 
 ## 💻 Compétences
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
@@ -30,19 +25,10 @@ Je suis un développeur passionné par **[ton domaine principal]** et curieux(se
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
----
-
 ## 🌐 Où me trouver ?  
 
 - 📧 Email : [nicodev63700@gmail.com]  
 - 🌐 Portfolio : [www.portfolio.dallarinicolas.fr]  
 - 💬 LinkedIn : [(https://www.linkedin.com/in/dallari-nicolas-6556382a9) ]
 
----
-
-## 🎨 Design personnalisé  
-
-✨ **Tu veux me poser des questions ou discuter d'une idée ?**  
-Je suis toujours partant(e) pour échanger autour de projets ou technologies innovantes. 🚀  
-
-![Cool Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+Merci d'etre venue visiter mon profil !
