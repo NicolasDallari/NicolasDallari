@@ -7,20 +7,12 @@ Bienvenue sur mon profil GitHub ! 🚀
 Je suis un développeur passionné par **[ton domaine principal]** et curieux(se) d'explorer tout ce qui touche à **[tes centres d'intérêt]**.
 
 ---
-
-## 🔥 Quelques stats rapides  
-![Vos Stats GitHub](https://github-readme-stats.vercel.app/api?username=NicolasDallari&show_icons=true&theme=radical)
-
 ---
 
 ## 🚀 À propos de moi  
 
-- 🔭 Actuellement, je travaille sur **Mon portfolio**  
-- 🌱 j'approfondis **PHP**   
-- ⚡ Fun fact : **[Ajoute un fun fact ou un trait unique sur toi ici]**  
-
-![Un GIF sympa](https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif)  
-
+- 🔭 Actuellement, je travaille sur **Convertisseur de monnaie**  
+- 🌱 j'approfondis **PHP,Tailwind CSS**   
 ---
 
 ## 💻 Compétences
@@ -40,30 +32,11 @@ Je suis un développeur passionné par **[ton domaine principal]** et curieux(se
 
 ---
 
-## 📈 Mes stats GitHub  
-
-![Tes stats GitHub](https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=radical)  
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoGitHub&layout=compact&theme=radical)  
-
----
-
 ## 🌐 Où me trouver ?  
 
 - 📧 Email : [nicodev63700@gmail.com]  
-- 🌐 Portfolio : [En cours]  
-- 💬 LinkedIn : [[Lien LinkedIn]](https://www.linkedin.com/in/dallari-nicolas-6556382a9)  
-
-![Connect GIF](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
-
----
-
-## 🎯 Projets à ne pas manquer  
-
-🌟 **[Nom du projet 1](https://github.com/TonPseudoGitHub/Projet1)**  
-📌 **[Nom du projet 2](https://github.com/TonPseudoGitHub/Projet2)**  
-💡 **[Nom du projet 3](https://github.com/TonPseudoGitHub/Projet3)**  
-
-*(Ajoute une description pour chaque projet si nécessaire.)*
+- 🌐 Portfolio : [www.portfolio.dallarinicolas.fr]  
+- 💬 LinkedIn : [(https://www.linkedin.com/in/dallari-nicolas-6556382a9) ]
 
 ---
 
