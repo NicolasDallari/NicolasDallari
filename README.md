@@ -5,8 +5,8 @@ Bienvenue sur mon profil GitHub ! 🚀
 Je suis un développeur **Fullstack** passionné par ce métier où l'on en apprend chaque jour!
 
 ## 🚀 À propos de moi  
-
-- 🔭 Actuellement, je travaille sur un **Convertisseur de monnaie**. 
+ 
+- 🔭 Actuellement, je travaille sur un **site qui te donnera l'âge de ton aniaml de compagnie**. 
 - 🌱 J'approfondis **PHP,JavaScript**.   
 - 🏡 J'habite à **Moureuille (Auvergne)**, France.
 
